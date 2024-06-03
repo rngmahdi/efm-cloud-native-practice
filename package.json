@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "service-projects",
+  "version": "1.0.0",
+  "description": "service projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "author": "El Mehdi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1"
+  }
+}
